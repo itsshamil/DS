@@ -1,0 +1,38 @@
+{
+    "name": "Farsana Thasnem",
+    "title": "Data Scientist | Bsc Physics | AI Researcher",
+    "image": "/assets/uploads/avatar.jpg",
+    "bio": "Seeking to leverage my skills to solve real-world data challenges and contribute as a senior data scientist in the future.",
+    "description": "I combine mathematical rigor with software engineering to build models that make sense of complex data. My passion lies in the intersection of theoretical ML research and practical business applications.",
+    "skills": [
+      {
+        "title": "Machine Learning",
+        "description": "Supervised/Unsupervised Learning, Hyperparameter Tuning, Grid Search Cross Validation, Outlier Detection",
+        "icon": "Brain",
+        "color": "text-ds-blue-400"
+      },
+      {
+        "title": "Data Visualization",
+        "description": "Transforming complex datasets into clear, insightful visuals",
+        "icon": "ChartBar",
+        "color": "text-ds-purple-400"
+      },
+      {
+        "title": "Network Analysis",
+        "description": "Uncover patterns in connected data using graph algorithms",
+        "icon": "Network",
+        "color": "text-ds-neon-400"
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Data Cleaning, Feature Engineering, Dataset Balancing, Visualization Tools: Matplotlib, Seaborn, Power BI, Tableau",
+        "icon": "Code",
+        "color": "text-ds-blue-400"
+      }
+    ],
+    "links": {
+      "skills": "#skills",
+      "resume": "/assets/uploads/FARSANA_THASNEM_PA_CV.pdf",
+      "resumeDownloadName": "FARSANA_THASNEM_PA_CV.pdf"
+    }
+  }

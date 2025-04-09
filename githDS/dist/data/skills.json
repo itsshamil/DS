@@ -1,0 +1,40 @@
+{
+    "coreCompetencies": [
+      { "name": "Machine Learning", "level": 95 },
+      { "name": "Python", "level": 90 },
+      { "name": "Data Visualization", "level": 85 },
+      { "name": "Deep Learning", "level": 88 },
+      { "name": "Statistical Analysis", "level": 92 },
+      { "name": "SQL", "level": 80 },
+      { "name": "TensorFlow", "level": 85 },
+      { "name": "PyTorch", "level": 83 }
+    ],
+    "technologies": [
+      "Python", "R", "SQL", "TensorFlow", "PyTorch", "Scikit-learn",
+      "Pandas", "NumPy", "Matplotlib", "Seaborn", "Tableau", "Power BI",
+      "AWS", "GCP", "Docker", "Git", "Flask", "FastAPI",
+      "Spark", "Hadoop", "Keras", "NLTK", "OpenCV", "Plotly"
+    ],
+    "educationAndCertifications": [
+      {
+        "title": "Data Science",
+        "institution": "Techolas Technologies, Calicut, Kerala",
+        "duration": "2024 - Present"
+      },
+      {
+        "title": "Bsc in Data Physics",
+        "institution": "University of Calicut, Kerala, India",
+        "duration": "2021 - 2024"
+      },
+      {
+        "title": "TensorFlow Developer Certificate",
+        "institution": "Google",
+        "duration": "2025"
+      }
+      , {
+        "title": "TensorFlow Developer Certificate",
+        "institution": "IBM",
+        "duration": "2025"
+      }
+    ]
+  }

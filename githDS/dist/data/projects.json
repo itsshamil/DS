@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Adult Income Prediction",
+      "description": "This project predicts whether a person earns more than $50K per year based on demographic and employment-related features.",
+      "image": "/assets/uploads/5.webp",
+      "tags": ["Python", "Pandas", "Seaborn", "Scikit-Learn"],
+      "github": "https://github.com/FarsanaDS/adult-income-ml",
+      "demo": "https://adult-income-ml-yinukwr2zmrufo8wxdkcqb.streamlit.app/"
+    },
+    {
+      "title": "Sales Forecasting - Kaggle Competition",
+      "description": "Predicting future sales using advanced machine learning techniques! This project was built for a Kaggle competition, applying XGBoost and LightGBM to forecast sales.",
+      "image": "/assets/uploads/3.webp",
+      "tags": ["Python", "XGBoost", "LightGBM", "scikit-learn"],
+      "github": "https://github.com/FarsanaDS/sales-forecasting-kaggle",
+      "demo": "https://github.com/FarsanaDS/sales-forecasting-kaggle"
+    },
+    {
+      "title": "Applied grid search cross-validation to optimize model performance",
+      "description": "Grid Search Cross-Validation (GridSearchCV) to optimize hyperparameters and improve model performance. The project involved training multiple models with different hyperparameter combinations and selecting the best-performing configuration based on evaluation metrics.",
+      "image": "/assets/uploads/4.webp",
+      "tags": ["Python", "Scki-learn", "FastAPI", "Docker"],
+      "github": "https://github.com/FarsanaDS",
+      "demo": "https://github.com/FarsanaDS"
+    },
+    {
+      "title": "Data Science Salaries Dashboard",
+      "description": "Tableau dashboard analyzing data science salaries based on experience level, job title, company size, and location.",
+      "image": "/assets/uploads/2.webp",
+      "tags": ["Python", "Tableau"],
+      "github": "https://github.com/FarsanaDS/Data-Science-Salary-Dashboard?tab=readme-ov-file",
+      "demo": "https://public.tableau.com/app/profile/farsana.thasnem.pa/viz/dssalary_17420671129600/Dashboard1"
+    }
+  ]
